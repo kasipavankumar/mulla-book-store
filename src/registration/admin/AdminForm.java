@@ -11,8 +11,8 @@
 package registration.admin;
 
 public class AdminForm {
-    private final String username = "Admin_MBS";
-    private final String password = "Admin@MBS#657";
+    private final String username = ""; // Admin username
+    private final String password = ""; // Admin password
 
     public Boolean LoginAuth(String username, String password) {
         if(username.equals(this.username) && password.equals(this.password)) {

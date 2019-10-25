@@ -3,7 +3,7 @@ Mulla Book Store
 
 ## Java based Book Management Software
 
-**Mulla Book Store** is a Java based Book Management Software developed as an group project during our degree college.
+Mulla Book Store is a Java based Book Management Software developed as an group project during our degree college.
 
 The idea behind this project is to create an interface to manage a book store in general.
 
